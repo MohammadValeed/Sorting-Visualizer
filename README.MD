@@ -4,9 +4,9 @@ This is a web application built using HTML, CSS, Javascript to visualize classic
 
 <img src = "images/Screenshot 2024-09-26 212659.png"> <br>
 
-**Live-** 
+**Live-** https://mohammadvaleed.github.io/Sorting-Visualizer/ 
 
-**Code-** 
+**Code-** https://github.com/MohammadValeed/Sorting-Visualizer
 
 ## Purpose
 
